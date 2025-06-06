@@ -44,7 +44,4 @@ Designed with an intuitive batch-based GUI and built-in ANSI styling, this tool 
 ## 🧾 How to Use
 
 1. **Clone or download** the repository.
-2. Run any `.bat` file directly in **Windows Terminal** or **Command Prompt** (with ANSI support enabled).
-3. Example:
-   ```cmd
-   > blue_colors.bat
+2. Run any `.bat` file .
